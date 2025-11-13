@@ -1,16 +1,16 @@
 # Visualy
 
-Compare texts instantly with real-time highlighting, detailed statistics, and a beautiful dark chocolate interface.
+Compare texts instantly with real-time highlighting, detailed statistics, and a beautiful dark chocolate interface. build by Pranoy71
 
 ## Features
 
 - 🔍 Compare two texts side-by-side
-- 🎨 Color-coded highlighting (additions in green)
+- 🎨 Color-coded highlighting 
 - 📊 Detailed statistics (lines, words, characters)
 - 💾 Copy & download results
 - 🔤 Monospace view for code
 - ⚡ Fast and lightweight
-- 🆓 Completely free
+
 
 
 ## Quick Start
