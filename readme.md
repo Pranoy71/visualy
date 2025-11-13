@@ -11,7 +11,15 @@ Compare texts instantly with real-time highlighting, detailed statistics, and a 
 - 🔤 Monospace view for code
 - ⚡ Fast and lightweight
 
+## Installation
 
+Requirements: PHP 8.0+, a web server (Apache/Nginx) and a browser.
+
+-Local (PHP built-in)
+-Download or clone the repo.
+-From the project root, run:  php -S localhost:8000
+
+-Open http://localhost:8000 in your browser.
 
 ## Quick Start
 
