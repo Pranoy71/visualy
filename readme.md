@@ -35,6 +35,3 @@ Requirements: PHP 8.0+, a web server (Apache/Nginx) and a browser.
 - JavaScript
 
 
-## License
-
-MIT License - Free to use
