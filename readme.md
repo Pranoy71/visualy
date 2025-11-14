@@ -34,4 +34,6 @@ Requirements: PHP 8.0+, a web server (Apache/Nginx) and a browser.
 - HTML5 & CSS3
 - JavaScript
 
+## Live demo 
 
+- https://visualy.free.nf
